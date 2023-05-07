@@ -2,7 +2,7 @@
 
  [Document](https://academy.patika.dev/courses/java101/odev-manav-kasa)
 
-## Output
+## Example
     
     ```java
     Armut Kaç Kilo ? : 2.5
