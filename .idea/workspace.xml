@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27f55687-a9eb-4e49-ba4a-cd35fc32f13e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/fibonacci/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibonacci/fibonacci.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prime-numbers/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prime-numbers/prime-numbers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +128,7 @@
       <workItem from="1683495566705" duration="812000" />
       <workItem from="1683496389468" duration="134000" />
       <workItem from="1683496533640" duration="927000" />
-      <workItem from="1683497471096" duration="4701000" />
+      <workItem from="1683497471096" duration="5367000" />
     </task>
     <servers />
   </component>
@@ -176,7 +170,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/fibonacci/src/Main.java</url>
-          <line>4</line>
+          <line>16</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
