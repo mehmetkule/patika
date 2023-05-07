@@ -3,31 +3,31 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        double armut, elma, domates, muz, patlican, result;
+        double pear, apple, tomatoes, banana, aubergine, result;
 
         System.out.print("Armut Kaç Kilo ? : ");
-        armut = sc.nextDouble();
+        pear = sc.nextDouble();
         System.out.print("Elma Kaç Kilo ? : ");
-        elma = sc.nextDouble();
+        apple = sc.nextDouble();
         System.out.print("Domates Kaç Kilo ? : ");
-        domates = sc.nextDouble();
+        tomatoes = sc.nextDouble();
         System.out.print("Muz Kaç Kilo ? : ");
-        muz = sc.nextDouble();
+        banana = sc.nextDouble();
         System.out.print("Patlıcan Kaç Kilo ? : ");
-        patlican = sc.nextDouble();
+        aubergine = sc.nextDouble();
 
-        result = totalCost(armut, elma, domates, muz, patlican);
+        result = totalCost(pear, apple, tomatoes, banana, aubergine);
         System.out.println("Toplam Tutar : " + result + " TL");
 
     }
 
-    public static double totalCost(double armut, double elma, double domates, double muz, double patlican) {
-        double armutFiyat = 2.14;
-        double elmaFiyat = 3.67;
-        double domatesFiyat = 1.11;
-        double muzFiyat = 0.95;
-        double patlicanFiyat = 5.00;
-        double total = (armut * armutFiyat) + (elma * elmaFiyat) + (domates * domatesFiyat) + (muz * muzFiyat) + (patlican * patlicanFiyat);
+    public static double totalCost(double pear, double apple, double tomatoes, double banana, double aubergine) {
+        double pearCost = 2.14;
+        double appleCost = 3.67;
+        double tomatoesCost = 1.11;
+        double bananaCost = 0.95;
+        double aubergineCost = 5.00;
+        double total = (pear * pearCost) + (apple * appleCost) + (tomatoes * tomatoesCost) + (banana * bananaCost) + (aubergine * aubergineCost);
         return total;
     }
 }

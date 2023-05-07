@@ -2,38 +2,38 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        double mesafe, kmTutar;
-        int yas, tip;
+        double distance, kmTotal;
+        int age, type;
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Mesafeyi km türünden giriniz :");
-        mesafe = scanner.nextDouble();
-        if (mesafe < 0) {
+        distance = scanner.nextDouble();
+        if (distance < 0) {
             System.out.print("Hatalı Veri Girdiniz !");
             return;
         }
 
         System.out.print("Yaşınızı giriniz :");
-        yas = scanner.nextInt();
+        age = scanner.nextInt();
 
         System.out.print("Yolculuk tipini giriniz (1 => Tek Yön , 2 => Gidiş Dönüş ):");
-        tip = scanner.nextInt();
+        type = scanner.nextInt();
 
-        kmTutar = mesafe * 0.10;
+        kmTotal = distance * 0.10;
 
-        if (yas < 12) {
-            kmTutar = kmTutar * 0.5;
-        } else if (yas <= 24) {
-            kmTutar = kmTutar * 0.9;
-        } else if (yas >= 65) {
-            kmTutar = kmTutar * 0.7;
+        if (age < 12) {
+            kmTotal = kmTotal * 0.5;
+        } else if (age <= 24) {
+            kmTotal = kmTotal * 0.9;
+        } else if (age >= 65) {
+            kmTotal = kmTotal * 0.7;
         }
 
-        if (tip == 2) {
-            kmTutar = kmTutar * 0.8;
-            kmTutar = kmTutar * 2;
+        if (type == 2) {
+            kmTotal = kmTotal * 0.8;
+            kmTotal = kmTotal * 2;
         }
 
-        System.out.print("Toplam Tutar : " + kmTutar);
+        System.out.print("Toplam Tutar : " + kmTotal);
     }
 }
