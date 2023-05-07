@@ -16,3 +16,5 @@
 
 7.[Mükemmel Sayı](https://github.com/mehmetkule/patika/tree/master/perfect-number)
 
+8.[Ters Üçgen](https://github.com/mehmetkule/patika/tree/master/reverse-pyramid)
+
