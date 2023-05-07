@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        double mesafe,kmTutar;
-        int yas,tip;
+        double mesafe, kmTutar;
+        int yas, tip;
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Mesafeyi km türünden giriniz :");
@@ -23,7 +23,7 @@ public class Main {
 
         if (yas < 12) {
             kmTutar = kmTutar * 0.5;
-        } else if (yas >= 12 && yas <= 24) {
+        } else if (yas <= 24) {
             kmTutar = kmTutar * 0.9;
         } else if (yas >= 65) {
             kmTutar = kmTutar * 0.7;
