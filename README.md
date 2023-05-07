@@ -8,4 +8,6 @@
 
 3.[Uçak Bilet Fiyatı Hesaplama](https://github.com/mehmetkule/patika/tree/master/fly)
 
-3.[Çin Zodyağı](https://github.com/mehmetkule/patika/tree/master/czh)
+4.[Çin Zodyağı](https://github.com/mehmetkule/patika/tree/master/czh)
+
+5.[Çin Zodyağı](https://github.com/mehmetkule/patika/tree/master/leap-year)
