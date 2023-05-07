@@ -18,3 +18,7 @@
 
 8.[Ters Üçgen](https://github.com/mehmetkule/patika/tree/master/reverse-pyramid)
 
+9.[Asal Sayılar](https://github.com/mehmetkule/patika/tree/master/prime-numbers)
+
+10.[Fibonacci](https://github.com/mehmetkule/patika/tree/master/fibonacci)
+
