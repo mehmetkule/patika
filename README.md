@@ -11,3 +11,5 @@
 4.[Çin Zodyağı](https://github.com/mehmetkule/patika/tree/master/czh)
 
 5.[Artık Yıl](https://github.com/mehmetkule/patika/tree/master/leap-year)
+
+6.[Min-Max](https://github.com/mehmetkule/patika/tree/master/min-max)
