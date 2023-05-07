@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/fly/fly.iml" filepath="$PROJECT_DIR$/fly/fly.iml" />
       <module fileurl="file://$PROJECT_DIR$/mkp/mkp.iml" filepath="$PROJECT_DIR$/mkp/mkp.iml" />
       <module fileurl="file://$PROJECT_DIR$/patika.iml" filepath="$PROJECT_DIR$/patika.iml" />
       <module fileurl="file://$PROJECT_DIR$/vki/vki.iml" filepath="$PROJECT_DIR$/vki/vki.iml" />
