@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+*Finding the minimum and maximum values of the entered values
+* details:https://academy.patika.dev/courses/java101/odev-min-max
+*/
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

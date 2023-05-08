@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+/*
+* shopping amount calculation
+* details: https://academy.patika.dev/courses/java101/odev-manav-kasa
+*/
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

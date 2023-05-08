@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+/*
+* Reverse pyramid
+* details: https://academy.patika.dev/courses/backend-bootcamp-hazirlik-programi-4hafta/odev-ters-ucgen
+ * */
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

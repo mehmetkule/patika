@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+* Calculating by taking the Distance (KM), age and trip type (One Way, Round-Round) information from the user
+* detail :https://academy.patika.dev/courses/java101/odev-ucak-bileti
+*/
 public class Main {
     public static void main(String[] args) {
         double distance, kmTotal;
