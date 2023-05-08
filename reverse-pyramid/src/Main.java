@@ -5,7 +5,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int rows;
         int i, j;
-        System.out.print("Basamak sayısı: ");
+        System.out.print("Enter number of rows:");
         rows = sc.nextInt();
 
         for (i = rows; i >= 1; i--) {

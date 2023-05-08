@@ -5,19 +5,19 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         double pear, apple, tomatoes, banana, aubergine, result;
 
-        System.out.print("Armut Kaç Kilo ? : ");
+        System.out.print("How Many Kilos of Pears ? : ");
         pear = sc.nextDouble();
-        System.out.print("Elma Kaç Kilo ? : ");
+        System.out.print("How Many Kilos of Apple ? : ");
         apple = sc.nextDouble();
-        System.out.print("Domates Kaç Kilo ? : ");
+        System.out.print("How Many Kilos of Tomatoes ? : ");
         tomatoes = sc.nextDouble();
-        System.out.print("Muz Kaç Kilo ? : ");
+        System.out.print("How Many Kilos of Banana ? : ");
         banana = sc.nextDouble();
-        System.out.print("Patlıcan Kaç Kilo ? : ");
+        System.out.print("How Many Kilos of Aubergine ? : ");
         aubergine = sc.nextDouble();
 
         result = totalCost(pear, apple, tomatoes, banana, aubergine);
-        System.out.println("Toplam Tutar : " + result + " TL");
+        System.out.println("Total : " + result + " TL");
 
     }
 

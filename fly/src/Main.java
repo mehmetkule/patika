@@ -6,17 +6,17 @@ public class Main {
         int age, type;
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Mesafeyi km türünden giriniz :");
+        System.out.print("Enter kilometers :");
         distance = scanner.nextDouble();
         if (distance < 0) {
-            System.out.print("Hatalı Veri Girdiniz !");
+            System.out.print("Invalid kilometers");
             return;
         }
 
-        System.out.print("Yaşınızı giriniz :");
+        System.out.print("Enter age :");
         age = scanner.nextInt();
 
-        System.out.print("Yolculuk tipini giriniz (1 => Tek Yön , 2 => Gidiş Dönüş ):");
+        System.out.print("Enter the type of trip (1 => One Way, 2 => Round Trip):");
         type = scanner.nextInt();
 
         kmTotal = distance * 0.10;
@@ -34,6 +34,6 @@ public class Main {
             kmTotal = kmTotal * 2;
         }
 
-        System.out.print("Toplam Tutar : " + kmTotal);
+        System.out.print("Total : " + kmTotal);
     }
 }

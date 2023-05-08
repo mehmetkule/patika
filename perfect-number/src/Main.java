@@ -4,16 +4,16 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number;
-        System.out.print("Bir sayı giriniz: ");
+        System.out.print("Enter number: ");
         number = sc.nextInt();
 
         if (number < 0) {
-            System.out.println("Geçersiz sayı girdiniz.");
+            System.out.println("Invalid number");
         } else {
             if (isPerfectNumber(number)) {
-                System.out.println(number + " Mükemmel sayıdır");
+                System.out.println(number + " Perfect number");
             } else {
-                System.out.println(number + " Mükemmel sayı değildir.");
+                System.out.println(number + " Not a perfect number");
             }
         }
     }
