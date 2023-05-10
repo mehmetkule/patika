@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27f55687-a9eb-4e49-ba4a-cd35fc32f13e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/recursive-pattern/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prime-numbers-find/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prime-numbers-find/prime-numbers-find.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -39,13 +40,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-20",
-    "last_opened_file_path": "C:/Users/Monster/Desktop/patika/recursive-pattern",
+    "last_opened_file_path": "C:/Users/Monster/Desktop/patika/prime-numbers-find",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Monster/Desktop/patika/recursive-pattern/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Monster/Desktop/patika/prime-numbers-find/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -55,14 +56,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Monster\Desktop\patika\prime-numbers-find" />
       <recent name="C:\Users\Monster\Desktop\patika\recursive-pattern" />
       <recent name="C:\Users\Monster\Desktop\patika\recursive" />
       <recent name="C:\Users\Monster\Desktop\patika\fibonacci" />
       <recent name="C:\Users\Monster\Desktop\patika\prime-numbers" />
-      <recent name="C:\Users\Monster\Desktop\patika\reverse-pyramid" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="recursive" />
@@ -70,16 +71,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="prime-numbers" />
+      <module name="prime-numbers-find" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="fibonacci" />
+      <module name="prime-numbers" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,19 +100,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +135,7 @@
       <workItem from="1683503682411" duration="3260000" />
       <workItem from="1683669066189" duration="10920000" />
       <workItem from="1683727497971" duration="2433000" />
+      <workItem from="1683729944808" duration="1284000" />
     </task>
     <servers />
   </component>
@@ -177,6 +179,11 @@
           <url>file://$PROJECT_DIR$/fibonacci/src/Main.java</url>
           <line>22</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/prime-numbers-find/src/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

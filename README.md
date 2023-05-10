@@ -24,5 +24,7 @@
 
 11.[Recursive Power](https://github.com/mehmetkule/patika/tree/master/recursive)
 
-12.[Recursive Pattern](https://github.com/mehmetkule/patika/tree/master/recursive-pattern)
+12.[Recursi`v`e Pattern](https://github.com/mehmetkule/patika/tree/master/recursive-pattern)
+
+13.[Recursive Prime Numbers](https://github.com/mehmetkule/patika/tree/master/prime-numbers-recursive)
 

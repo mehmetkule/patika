@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/patika.iml" filepath="$PROJECT_DIR$/patika.iml" />
       <module fileurl="file://$PROJECT_DIR$/perfect-number/perfect-number.iml" filepath="$PROJECT_DIR$/perfect-number/perfect-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/prime-numbers/prime-numbers.iml" filepath="$PROJECT_DIR$/prime-numbers/prime-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prime-numbers-find/prime-numbers-find.iml" filepath="$PROJECT_DIR$/prime-numbers-find/prime-numbers-find.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursive/recursive.iml" filepath="$PROJECT_DIR$/recursive/recursive.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursive-pattern/recursive-pattern.iml" filepath="$PROJECT_DIR$/recursive-pattern/recursive-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverse-pyramid/reverse-pyramid.iml" filepath="$PROJECT_DIR$/reverse-pyramid/reverse-pyramid.iml" />
