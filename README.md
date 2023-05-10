@@ -22,3 +22,5 @@
 
 10.[Fibonacci](https://github.com/mehmetkule/patika/tree/master/fibonacci)
 
+11.[Recursive Power](https://github.com/mehmetkule/patika/tree/master/recursive)
+

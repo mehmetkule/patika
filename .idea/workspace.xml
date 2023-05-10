@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27f55687-a9eb-4e49-ba4a-cd35fc32f13e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/recursive/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursive/recursive.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/czh/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/czh/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fibonacci/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/fibonacci/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fly/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/fly/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leap-year/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/leap-year/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/min-max/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/min-max/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkp/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/mkp/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/perfect-number/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/perfect-number/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime-numbers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/prime-numbers/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reverse-pyramid/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/reverse-pyramid/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,27 +33,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-20&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Monster/patika&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Monster/Desktop/patika/fibonacci/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "last_opened_file_path": "C:/Users/Monster/Desktop/patika/recursive",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Monster/Desktop/patika/recursive/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.build",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Monster\Desktop\patika\fibonacci" />
@@ -69,7 +63,14 @@
       <recent name="C:\Users\Monster\Desktop\patika\min-max" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="recursive" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="reverse-pyramid" />
@@ -98,27 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="perfect-number" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +132,8 @@
       <workItem from="1683496389468" duration="134000" />
       <workItem from="1683496533640" duration="927000" />
       <workItem from="1683497471096" duration="6196000" />
-      <workItem from="1683503682411" duration="2386000" />
+      <workItem from="1683503682411" duration="3260000" />
+      <workItem from="1683669066189" duration="7268000" />
     </task>
     <servers />
   </component>
