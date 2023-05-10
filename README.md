@@ -24,3 +24,5 @@
 
 11.[Recursive Power](https://github.com/mehmetkule/patika/tree/master/recursive)
 
+12.[Recursive Pattern](https://github.com/mehmetkule/patika/tree/master/recursive-pattern)
+
