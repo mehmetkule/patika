@@ -1,6 +1,6 @@
 # Patika
 
-## First week :
+## First Week :
 
 - [Vki](https://github.com/mehmetkule/patika/tree/master/vki)
 
