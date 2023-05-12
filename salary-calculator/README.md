@@ -1,4 +1,4 @@
-# <h1 style="background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));; color:black">Sallar Calculator</h1>
+# <h1 style="background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));; color:black">Salary Calculator</h1>
 
  [Document](https://academy.patika.dev/courses/java101/odev-mukemmel-sayi)
 
