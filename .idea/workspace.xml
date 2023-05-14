@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27f55687-a9eb-4e49-ba4a-cd35fc32f13e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/list-sort/list-sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frequency/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -39,13 +39,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-20",
-    "last_opened_file_path": "C:/Users/Monster/Desktop/patika/list-sort",
+    "last_opened_file_path": "C:/Users/Monster/Desktop/patika/frequency",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Monster/Desktop/patika/list-sort/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Monster/Desktop/patika/frequency/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -55,17 +55,24 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Monster\Desktop\patika\frequency" />
       <recent name="C:\Users\Monster\Desktop\patika\list-sort" />
       <recent name="C:\Users\Monster\Desktop\patika\salary-calculator\src" />
       <recent name="C:\Users\Monster\Desktop\patika\prime-numbers-find" />
       <recent name="C:\Users\Monster\Desktop\patika\recursive-pattern" />
-      <recent name="C:\Users\Monster\Desktop\patika\recursive" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Monster\Desktop\patika\salary-calculator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="frequency" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="prime-numbers-find" />
@@ -94,27 +101,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="recursive-pattern" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +140,9 @@
       <workItem from="1683729944808" duration="3020000" />
       <workItem from="1683770810877" duration="15000" />
       <workItem from="1683911657256" duration="1456000" />
-      <workItem from="1683913134739" duration="2331000" />
+      <workItem from="1683913134739" duration="3177000" />
+      <workItem from="1683930508866" duration="16000" />
+      <workItem from="1684104261910" duration="1251000" />
     </task>
     <servers />
   </component>
@@ -192,8 +194,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/list-sort/src/Main.java</url>
-          <line>21</line>
+          <line>26</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/frequency/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
