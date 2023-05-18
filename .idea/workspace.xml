@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27f55687-a9eb-4e49-ba4a-cd35fc32f13e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/min-max-numbers/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/min-max-numbers/min-max-numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array-letter/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array-letter/array-letter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +40,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-20",
-    "last_opened_file_path": "C:/Users/Monster/Desktop/patika/min-max-numbers",
+    "last_opened_file_path": "C:/Users/Monster/Desktop/patika/array-letter",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Monster/Desktop/patika/min-max-numbers/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Monster/Desktop/patika/array-letter/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -57,17 +56,24 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Monster\Desktop\patika\array-letter" />
       <recent name="C:\Users\Monster\Desktop\patika\min-max-numbers" />
       <recent name="C:\Users\Monster\Desktop\patika\max-number" />
       <recent name="C:\Users\Monster\Desktop\patika\harmonik" />
       <recent name="C:\Users\Monster\Desktop\patika\matrix" />
-      <recent name="C:\Users\Monster\Desktop\patika\frequency" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Monster\Desktop\patika\salary-calculator" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="array-letter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="min-max-numbers" />
@@ -77,6 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -109,6 +116,7 @@
       <workItem from="1684104261910" duration="1251000" />
       <workItem from="1684105524452" duration="1727000" />
       <workItem from="1684372609040" duration="397000" />
+      <workItem from="1684449106948" duration="260000" />
     </task>
     <servers />
   </component>
