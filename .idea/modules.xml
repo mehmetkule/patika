@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/array-letter/array-letter.iml" filepath="$PROJECT_DIR$/array-letter/array-letter.iml" />
       <module fileurl="file://$PROJECT_DIR$/czh/czh.iml" filepath="$PROJECT_DIR$/czh/czh.iml" />
       <module fileurl="file://$PROJECT_DIR$/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/fibonacci/fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/fly/fly.iml" filepath="$PROJECT_DIR$/fly/fly.iml" />
