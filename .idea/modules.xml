@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/array-letter/array-letter.iml" filepath="$PROJECT_DIR$/array-letter/array-letter.iml" />
       <module fileurl="file://$PROJECT_DIR$/czh/czh.iml" filepath="$PROJECT_DIR$/czh/czh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duplicate-number/duplicate-number.iml" filepath="$PROJECT_DIR$/duplicate-number/duplicate-number.iml" />
       <module fileurl="file://$PROJECT_DIR$/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/fibonacci/fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/fly/fly.iml" filepath="$PROJECT_DIR$/fly/fly.iml" />
       <module fileurl="file://$PROJECT_DIR$/frequency/frequency.iml" filepath="$PROJECT_DIR$/frequency/frequency.iml" />

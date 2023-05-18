@@ -24,3 +24,4 @@
 - [Harmonic](https://github.com/mehmetkule/patika/tree/master/harmonic)
 - [Min-Max Number](https://github.com/mehmetkule/patika/tree/master/min-max-number)
 - [Multi-Array](https://github.com/mehmetkule/patika/tree/master/array-letter)
+- [Duplicate Numbers](https://github.com/mehmetkule/patika/tree/master/duplicate-number)
