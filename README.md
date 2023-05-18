@@ -21,3 +21,4 @@
 - [List Order](https://github.com/mehmetkule/patika/tree/master/list-sort)
 - [Frequency](https://github.com/mehmetkule/patika/tree/master/frequency)
 - [Matrix](https://github.com/mehmetkule/patika/tree/master/matrix)
+- [Harmonic](https://github.com/mehmetkule/patika/tree/master/harmonic)
