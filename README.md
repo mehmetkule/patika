@@ -22,3 +22,4 @@
 - [Frequency](https://github.com/mehmetkule/patika/tree/master/frequency)
 - [Matrix](https://github.com/mehmetkule/patika/tree/master/matrix)
 - [Harmonic](https://github.com/mehmetkule/patika/tree/master/harmonic)
+- [Min-Max Number](https://github.com/mehmetkule/patika/tree/master/min-max-number)
