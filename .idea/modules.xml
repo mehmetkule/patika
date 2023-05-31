@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/recursive-pattern/recursive-pattern.iml" filepath="$PROJECT_DIR$/recursive-pattern/recursive-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverse-pyramid/reverse-pyramid.iml" filepath="$PROJECT_DIR$/reverse-pyramid/reverse-pyramid.iml" />
       <module fileurl="file://$PROJECT_DIR$/salary-calculator/salary-calculator.iml" filepath="$PROJECT_DIR$/salary-calculator/salary-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/university/university.iml" filepath="$PROJECT_DIR$/university/university.iml" />
       <module fileurl="file://$PROJECT_DIR$/vki/vki.iml" filepath="$PROJECT_DIR$/vki/vki.iml" />
     </modules>
   </component>
