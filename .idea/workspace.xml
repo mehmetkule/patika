@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27f55687-a9eb-4e49-ba4a-cd35fc32f13e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="27f55687-a9eb-4e49-ba4a-cd35fc32f13e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-20",
-    "last_opened_file_path": "C:/Users/Monster/Desktop/Yeni klasör/patika/university",
+    "last_opened_file_path": "C:/Users/Monster/Desktop/Yeni klasör/patika/animals",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,11 +55,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Monster\Desktop\Yeni klasör\patika\animals" />
       <recent name="C:\Users\Monster\Desktop\Yeni klasör\patika\university" />
       <recent name="C:\Users\Monster\Desktop\patika\array-letter" />
       <recent name="C:\Users\Monster\Desktop\patika\min-max-numbers" />
       <recent name="C:\Users\Monster\Desktop\patika\max-number" />
-      <recent name="C:\Users\Monster\Desktop\patika\harmonik" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Monster\Desktop\patika\salary-calculator" />
@@ -128,7 +126,7 @@
       <workItem from="1684449106948" duration="260000" />
       <workItem from="1684494640607" duration="17000" />
       <workItem from="1685494768773" duration="5000" />
-      <workItem from="1685577270652" duration="1348000" />
+      <workItem from="1685577270652" duration="2376000" />
     </task>
     <servers />
   </component>

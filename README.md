@@ -27,3 +27,4 @@
 - [Duplicate Numbers](https://github.com/mehmetkule/patika/tree/master/duplicate-number)
 - [University Management System](https://github.com/mehmetkule/patika/tree/master/university)
 - [Animals](https://github.com/mehmetkule/patika/tree/master/animals)
+- [Airlines](https://github.com/mehmetkule/patika/tree/master/airlines)
