@@ -28,5 +28,5 @@
 - [University Management System](https://github.com/mehmetkule/patika/tree/master/university)
 - [Animals](https://github.com/mehmetkule/patika/tree/master/animals)
 - [Airlines](https://github.com/mehmetkule/patika/tree/master/airlines)
-- [Cinema](https://github.com/mehmetkule/patika/tree/master/cinema)
+- [Cinema](https://github.com/mehmetkule/patika/tree/master/online-cinema)
 - [Elevator](https://github.com/mehmetkule/patika/tree/master/elevator)
