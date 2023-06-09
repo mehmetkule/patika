@@ -5,6 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27f55687-a9eb-4e49-ba4a-cd35fc32f13e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/modal/Characters/Arrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/modal/Characters/GameChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/modal/Characters/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/modal/Characters/Samurai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/modal/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/modal/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/modal/Location/Cave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/modal/Location/DefaultLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/modal/Location/Forest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/modal/Location/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/modal/Location/River.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/modal/Location/SafeLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/modal/Location/ToolStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/modal/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/modal/store/Armors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/src/modal/store/Weapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,28 +54,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "openjdk-20",
-    "last_opened_file_path": "C:/Users/Monster/Desktop/Yeni klasör/patika/airlines",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Monster/Desktop/Yeni klasör/patika/university/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "configurable.group.build",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-20&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Monster/Desktop/Yeni klasör/patika/airlines&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Monster/Desktop/Yeni klasör/patika/game/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Monster\Desktop\Yeni klasör\patika\airlines" />
@@ -67,7 +88,7 @@
       <recent name="C:\Users\Monster\Desktop\patika\salary-calculator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="array-letter" />
@@ -82,6 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="game" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="min-max-numbers" />
@@ -91,6 +119,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
@@ -130,6 +159,10 @@
       <workItem from="1685494768773" duration="5000" />
       <workItem from="1685577270652" duration="2376000" />
       <workItem from="1685626624950" duration="696000" />
+      <workItem from="1686055295456" duration="200000" />
+      <workItem from="1686056798424" duration="4026000" />
+      <workItem from="1686098399754" duration="994000" />
+      <workItem from="1686143376223" duration="1810000" />
     </task>
     <servers />
   </component>
@@ -221,6 +254,16 @@
           <url>file://$PROJECT_DIR$/university/src/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/game/src/modal/Inventory.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/game/src/modal/Location/ToolStore.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
