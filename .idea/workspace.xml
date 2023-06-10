@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27f55687-a9eb-4e49-ba4a-cd35fc32f13e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/book-sort/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-sort/book-sort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-sort/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-sort/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fikstur/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fikstur/fikstur.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fikstur/src/FixtureGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fikstur/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -46,13 +46,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-20",
-    "last_opened_file_path": "C:/Users/Monster/Desktop/Yeni klasör/patika/generic-list",
+    "last_opened_file_path": "C:/Users/Monster/Desktop/Yeni klasör/patika/book-sort",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Monster/Desktop/Yeni klasör/patika/book-sort/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Monster/Desktop/Yeni klasör/patika/fikstur/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -62,24 +62,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Monster\Desktop\Yeni klasör\patika\book-sort" />
       <recent name="C:\Users\Monster\Desktop\Yeni klasör\patika\generic-list" />
       <recent name="C:\Users\Monster\Desktop\Yeni klasör\patika\airlines" />
       <recent name="C:\Users\Monster\Desktop\Yeni klasör\patika\animals" />
       <recent name="C:\Users\Monster\Desktop\Yeni klasör\patika\university" />
-      <recent name="C:\Users\Monster\Desktop\patika\array-letter" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Monster\Desktop\patika\salary-calculator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="array-letter" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="duplicate-number" />
@@ -108,13 +101,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="fikstur" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +154,7 @@
       <workItem from="1686056798424" duration="4026000" />
       <workItem from="1686098399754" duration="994000" />
       <workItem from="1686143376223" duration="1810000" />
-      <workItem from="1686352259465" duration="4575000" />
+      <workItem from="1686352259465" duration="5857000" />
     </task>
     <servers />
   </component>
@@ -259,8 +259,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/book-sort/src/Main.java</url>
-          <line>19</line>
+          <line>14</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/fikstur/src/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
