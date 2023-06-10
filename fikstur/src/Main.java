@@ -10,7 +10,7 @@ public class Main {
         teams.add("Fenerbahçe");
         teams.add("Bursaspor");
         teams.add("Başakşehir");
-        //teams.add("Trabzonspor");
+        teams.add("Trabzonspor");
 
         FixtureGenerator generator = new FixtureGenerator(teams);
         List<String> fixtures = generator.generateFixtures();
