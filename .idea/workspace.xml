@@ -5,143 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27f55687-a9eb-4e49-ba4a-cd35fc32f13e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/p-101/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-store/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-store/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-store/patika-store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/models/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/models/CellPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/models/Notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/models/ProductGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/services/BrandService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/services/ProductGroupService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/utils/ConsoleUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airlines/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/airlines/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airlines/airlines.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/airlines/airlines.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animals/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/animals/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animals/animals.png" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/animals/animals.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-letter/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/array-letter/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-letter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/array-letter/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-letter/array-letter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/array-letter/array-letter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array-letter/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/array-letter/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-sort/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/book-sort/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-sort/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/book-sort/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-sort/book-sort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/book-sort/book-sort.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-sort/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/book-sort/src/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-sort/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/book-sort/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/czh/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/czh/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/czh/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/czh/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/czh/czh.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/czh/czh.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/czh/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/czh/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/duplicate-number/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/duplicate-number/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/duplicate-number/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/duplicate-number/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/duplicate-number/duplicate-number.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/duplicate-number/duplicate-number.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/duplicate-number/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/duplicate-number/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elevator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/elevator/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elevator/asansor.png" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/elevator/asansor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fibonacci/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/fibonacci/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fibonacci/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/fibonacci/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fibonacci/fibonacci.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/fibonacci/fibonacci.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fibonacci/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/fibonacci/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fikstur/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/fikstur/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fikstur/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/fikstur/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fikstur/fikstur.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/fikstur/fikstur.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fikstur/src/FixtureGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/fikstur/src/FixtureGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fikstur/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/fikstur/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fly/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/fly/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fly/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/fly/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fly/fly.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/fly/fly.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fly/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/fly/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frequency/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/frequency/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frequency/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/frequency/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frequency/frequency.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/frequency/frequency.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frequency/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/frequency/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/game.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/modal/Characters/Arrows.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/src/modal/Characters/Arrows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/modal/Characters/GameChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/src/modal/Characters/GameChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/modal/Characters/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/src/modal/Characters/Knight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/modal/Characters/Samurai.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/src/modal/Characters/Samurai.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/modal/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/src/modal/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/modal/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/src/modal/Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/modal/Location/Cave.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/src/modal/Location/Cave.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/modal/Location/DefaultLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/src/modal/Location/DefaultLocation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/modal/Location/Forest.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/src/modal/Location/Forest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/modal/Location/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/src/modal/Location/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/modal/Location/River.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/src/modal/Location/River.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/modal/Location/SafeLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/src/modal/Location/SafeLocation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/modal/Location/ToolStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/src/modal/Location/ToolStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/modal/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/src/modal/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/modal/store/Armors.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/src/modal/store/Armors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/modal/store/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/game/src/modal/store/Weapon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic-list/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/generic-list/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic-list/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/generic-list/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic-list/generic-list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/generic-list/generic-list.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic-list/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/generic-list/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic-list/src/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/generic-list/src/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/harmonic/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/harmonic/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/harmonic/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/harmonic/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/harmonic/harmonic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/harmonic/harmonic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/harmonic/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/harmonic/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leap-year/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/leap-year/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leap-year/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/leap-year/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leap-year/leap-year.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/leap-year/leap-year.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leap-year/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/leap-year/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list-sort/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/list-sort/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list-sort/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/list-sort/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list-sort/list-sort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/list-sort/list-sort.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list-sort/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/list-sort/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/matrix/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/matrix/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/matrix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/matrix/matrix.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/matrix/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/min-max-numbers/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/min-max-numbers/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/min-max-numbers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/min-max-numbers/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/min-max-numbers/min-max-numbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/min-max-numbers/min-max-numbers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/min-max-numbers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/min-max-numbers/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/min-max/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/min-max/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/min-max/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/min-max/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/min-max/min-max.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/min-max/min-max.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/min-max/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/min-max/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/mkp/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/mkp/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkp/mkp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/mkp/mkp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkp/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/mkp/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online-cinema/Film-Sistemi.png" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/online-cinema/Film-Sistemi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online-cinema/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/online-cinema/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/perfect-number/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/perfect-number/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/perfect-number/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/perfect-number/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/perfect-number/perfect-number.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/perfect-number/perfect-number.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/perfect-number/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/perfect-number/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime-numbers-find/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/prime-numbers-find/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime-numbers-find/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/prime-numbers-find/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime-numbers-find/prime-numbers-find.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/prime-numbers-find/prime-numbers-find.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime-numbers-find/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/prime-numbers-find/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime-numbers/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/prime-numbers/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime-numbers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/prime-numbers/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime-numbers/prime-numbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/prime-numbers/prime-numbers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prime-numbers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/prime-numbers/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursive-pattern/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/recursive-pattern/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursive-pattern/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/recursive-pattern/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursive-pattern/recursive-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/recursive-pattern/recursive-pattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursive-pattern/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/recursive-pattern/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursive/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/recursive/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursive/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/recursive/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursive/recursive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/recursive/recursive.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursive/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/recursive/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reverse-pyramid/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/reverse-pyramid/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reverse-pyramid/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/reverse-pyramid/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reverse-pyramid/reverse-pyramid.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/reverse-pyramid/reverse-pyramid.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reverse-pyramid/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/reverse-pyramid/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary-calculator/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/salary-calculator/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary-calculator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/salary-calculator/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary-calculator/salary-calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/salary-calculator/salary-calculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary-calculator/src/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/salary-calculator/src/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary-calculator/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/salary-calculator/src/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary-calculator/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/salary-calculator/src/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/salary-calculator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/salary-calculator/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/university/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/university/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/university/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/university/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/university/Untitled.png" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/university/Untitled.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/university/university.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/university/university.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vki/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/vki/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vki/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/vki/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vki/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/vki/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vki/vki.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p-101/vki/vki.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,28 +48,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "openjdk-20",
-    "last_opened_file_path": "D:/patika/p-101",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Monster/Desktop/Yeni klasör/patika/fikstur/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "configurable.group.build",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/patika/p-101&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/patika/patika-store/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\patika\p-101" />
@@ -200,14 +79,15 @@
       <recent name="C:\Users\Monster\Desktop\Yeni klasör\patika\animals" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\patika\p-102" />
       <recent name="D:\patika\p-101" />
       <recent name="C:\Users\Monster\Desktop\patika\salary-calculator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="duplicate-number" />
+      <module name="patika-store" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -242,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +167,8 @@
       <workItem from="1686098399754" duration="994000" />
       <workItem from="1686143376223" duration="1810000" />
       <workItem from="1686352259465" duration="5857000" />
-      <workItem from="1688388261154" duration="304000" />
+      <workItem from="1688388261154" duration="806000" />
+      <workItem from="1688389080175" duration="2018000" />
     </task>
     <servers />
   </component>
