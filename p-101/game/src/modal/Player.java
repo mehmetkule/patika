@@ -4,7 +4,6 @@ import modal.Characters.Arrows;
 import modal.Characters.GameChar;
 import modal.Characters.Knight;
 import modal.Characters.Samurai;
-import modal.Location.*;
 
 import java.util.Scanner;
 
