@@ -2,34 +2,35 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/p-101/array-letter/array-letter.iml" filepath="$PROJECT_DIR$/p-101/array-letter/array-letter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/book-sort/book-sort.iml" filepath="$PROJECT_DIR$/p-101/book-sort/book-sort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/czh/czh.iml" filepath="$PROJECT_DIR$/p-101/czh/czh.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/duplicate-number/duplicate-number.iml" filepath="$PROJECT_DIR$/p-101/duplicate-number/duplicate-number.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/p-101/fibonacci/fibonacci.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/fikstur/fikstur.iml" filepath="$PROJECT_DIR$/p-101/fikstur/fikstur.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/fly/fly.iml" filepath="$PROJECT_DIR$/p-101/fly/fly.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/frequency/frequency.iml" filepath="$PROJECT_DIR$/p-101/frequency/frequency.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/game/game.iml" filepath="$PROJECT_DIR$/p-101/game/game.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/generic-list/generic-list.iml" filepath="$PROJECT_DIR$/p-101/generic-list/generic-list.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/harmonic/harmonic.iml" filepath="$PROJECT_DIR$/p-101/harmonic/harmonic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/leap-year/leap-year.iml" filepath="$PROJECT_DIR$/p-101/leap-year/leap-year.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/list-sort/list-sort.iml" filepath="$PROJECT_DIR$/p-101/list-sort/list-sort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/matrix/matrix.iml" filepath="$PROJECT_DIR$/p-101/matrix/matrix.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/min-max/min-max.iml" filepath="$PROJECT_DIR$/p-101/min-max/min-max.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/min-max-numbers/min-max-numbers.iml" filepath="$PROJECT_DIR$/p-101/min-max-numbers/min-max-numbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/mkp/mkp.iml" filepath="$PROJECT_DIR$/p-101/mkp/mkp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array-letter/array-letter.iml" filepath="$PROJECT_DIR$/array-letter/array-letter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-sort/book-sort.iml" filepath="$PROJECT_DIR$/book-sort/book-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/czh/czh.iml" filepath="$PROJECT_DIR$/czh/czh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duplicate-number/duplicate-number.iml" filepath="$PROJECT_DIR$/duplicate-number/duplicate-number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/fibonacci/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fikstur/fikstur.iml" filepath="$PROJECT_DIR$/fikstur/fikstur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fly/fly.iml" filepath="$PROJECT_DIR$/fly/fly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frequency/frequency.iml" filepath="$PROJECT_DIR$/frequency/frequency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game/game.iml" filepath="$PROJECT_DIR$/game/game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic-list/generic-list.iml" filepath="$PROJECT_DIR$/generic-list/generic-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/harmonic/harmonic.iml" filepath="$PROJECT_DIR$/harmonic/harmonic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leap-year/leap-year.iml" filepath="$PROJECT_DIR$/leap-year/leap-year.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-sort/list-sort.iml" filepath="$PROJECT_DIR$/list-sort/list-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrix/matrix.iml" filepath="$PROJECT_DIR$/matrix/matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/min-max/min-max.iml" filepath="$PROJECT_DIR$/min-max/min-max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/min-max-numbers/min-max-numbers.iml" filepath="$PROJECT_DIR$/min-max-numbers/min-max-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mkp/mkp.iml" filepath="$PROJECT_DIR$/mkp/mkp.iml" />
       <module fileurl="file://$PROJECT_DIR$/patika.iml" filepath="$PROJECT_DIR$/patika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p-102/patika-insurance/patika-insurance.iml" filepath="$PROJECT_DIR$/p-102/patika-insurance/patika-insurance.iml" />
       <module fileurl="file://$PROJECT_DIR$/p-102/patika-store/patika-store.iml" filepath="$PROJECT_DIR$/p-102/patika-store/patika-store.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/perfect-number/perfect-number.iml" filepath="$PROJECT_DIR$/p-101/perfect-number/perfect-number.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/prime-numbers/prime-numbers.iml" filepath="$PROJECT_DIR$/p-101/prime-numbers/prime-numbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/prime-numbers-find/prime-numbers-find.iml" filepath="$PROJECT_DIR$/p-101/prime-numbers-find/prime-numbers-find.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/recursive/recursive.iml" filepath="$PROJECT_DIR$/p-101/recursive/recursive.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/recursive-pattern/recursive-pattern.iml" filepath="$PROJECT_DIR$/p-101/recursive-pattern/recursive-pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/reverse-pyramid/reverse-pyramid.iml" filepath="$PROJECT_DIR$/p-101/reverse-pyramid/reverse-pyramid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/salary-calculator/salary-calculator.iml" filepath="$PROJECT_DIR$/p-101/salary-calculator/salary-calculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/university/university.iml" filepath="$PROJECT_DIR$/p-101/university/university.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p-101/vki/vki.iml" filepath="$PROJECT_DIR$/p-101/vki/vki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/perfect-number/perfect-number.iml" filepath="$PROJECT_DIR$/perfect-number/perfect-number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prime-numbers/prime-numbers.iml" filepath="$PROJECT_DIR$/prime-numbers/prime-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prime-numbers-find/prime-numbers-find.iml" filepath="$PROJECT_DIR$/prime-numbers-find/prime-numbers-find.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive/recursive.iml" filepath="$PROJECT_DIR$/recursive/recursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive-pattern/recursive-pattern.iml" filepath="$PROJECT_DIR$/recursive-pattern/recursive-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse-pyramid/reverse-pyramid.iml" filepath="$PROJECT_DIR$/reverse-pyramid/reverse-pyramid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/salary-calculator/salary-calculator.iml" filepath="$PROJECT_DIR$/salary-calculator/salary-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/university/university.iml" filepath="$PROJECT_DIR$/university/university.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vki/vki.iml" filepath="$PROJECT_DIR$/vki/vki.iml" />
     </modules>
   </component>
 </project>

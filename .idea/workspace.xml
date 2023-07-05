@@ -5,20 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27f55687-a9eb-4e49-ba4a-cd35fc32f13e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/p-102/patika-store/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p-102/patika-store/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p-102/patika-store/patika-store.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/models/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/models/CellPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/models/Notebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/models/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/models/ProductGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/services/BrandService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/services/ProductGroupService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/services/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p-102/patika-store/src/utils/ConsoleUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/patika-insurance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/exceptions/InvalidAuthenticationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/managers/AccountManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/models/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/models/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/models/AddressManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/models/AuthenticationStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/models/BusinessAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/models/CarInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/models/Enterprise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/models/HealthInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/models/HomeAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/models/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/models/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/models/ResidenceInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/models/TravelInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/models/UserAddressManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-102/patika-insurance/src/models/UserAddressManagerImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -31,6 +38,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -56,13 +64,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/patika/p-101&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/patika/p-102&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/patika/patika-store/src/Main.java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/patika/patika-insurance/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -72,19 +80,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\patika\p-102" />
       <recent name="D:\patika\p-101" />
       <recent name="C:\Users\Monster\Desktop\Yeni klasör\patika\book-sort" />
       <recent name="C:\Users\Monster\Desktop\Yeni klasör\patika\generic-list" />
       <recent name="C:\Users\Monster\Desktop\Yeni klasör\patika\airlines" />
-      <recent name="C:\Users\Monster\Desktop\Yeni klasör\patika\animals" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\patika\p-102" />
+      <recent name="D:\patika" />
       <recent name="D:\patika\p-101" />
       <recent name="C:\Users\Monster\Desktop\patika\salary-calculator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="patika-store" />
@@ -92,9 +101,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="game" />
+      <module name="patika-insurance" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -122,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -169,6 +178,9 @@
       <workItem from="1686352259465" duration="5857000" />
       <workItem from="1688388261154" duration="806000" />
       <workItem from="1688389080175" duration="2018000" />
+      <workItem from="1688394277010" duration="493000" />
+      <workItem from="1688423977202" duration="269000" />
+      <workItem from="1688562269151" duration="668000" />
     </task>
     <servers />
   </component>
@@ -182,62 +194,62 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/mkp/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/mkp/src/Main.java</url>
           <line>23</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/fly/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/fly/src/Main.java</url>
           <line>41</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/czh/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/czh/src/Main.java</url>
           <line>20</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/min-max/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/min-max/src/Main.java</url>
           <line>29</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/perfect-number/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/perfect-number/src/Main.java</url>
           <line>23</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/reverse-pyramid/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/reverse-pyramid/src/Main.java</url>
           <line>25</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/fibonacci/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/fibonacci/src/Main.java</url>
           <line>22</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/salary-calculator/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/salary-calculator/src/Main.java</url>
           <line>4</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/list-sort/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/list-sort/src/Main.java</url>
           <line>26</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/frequency/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/frequency/src/Main.java</url>
           <line>10</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/matrix/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/matrix/src/Main.java</url>
           <line>30</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/harmonic/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/harmonic/src/Main.java</url>
           <line>9</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
@@ -247,39 +259,44 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/min-max-numbers/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/min-max-numbers/src/Main.java</url>
           <line>17</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/duplicate-number/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/duplicate-number/src/Main.java</url>
           <line>4</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/university/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/university/src/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/game/src/modal/Inventory.java</url>
+          <url>file://$PROJECT_DIR$/game/src/modal/Inventory.java</url>
           <line>15</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/game/src/modal/Location/ToolStore.java</url>
+          <url>file://$PROJECT_DIR$/game/src/modal/Location/ToolStore.java</url>
           <line>57</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/book-sort/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/book-sort/src/Main.java</url>
           <line>14</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/p-101/fikstur/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/fikstur/src/Main.java</url>
           <line>17</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/p-102/patika-insurance/src/Main.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
